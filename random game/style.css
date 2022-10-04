@@ -1,4 +1,8 @@
-
+@media (orientation: landscape) {
+	body{
+        display: none;
+    }
+}
 body {
     margin: 0px;
     height: 100vh;
